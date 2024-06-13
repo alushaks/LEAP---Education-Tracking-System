@@ -1,0 +1,218 @@
+/* Global Styles */ 
+
+body { 
+
+    font-family: Arial, sans-serif; 
+
+    margin: 0; 
+
+    padding: 0; 
+
+    color: #333; 
+
+} 
+
+  
+
+.container { 
+
+    width: 80%; 
+
+    margin: 0 auto; 
+
+} 
+
+  
+
+header { 
+
+    background-color: #4CAF50; 
+
+    color: white; 
+
+    padding: 1rem 0; 
+
+    text-align: center; 
+
+} 
+
+  
+
+header h1 { 
+
+    margin: 0; 
+
+} 
+
+  
+
+header nav ul { 
+
+    list-style: none; 
+
+    padding: 0; 
+
+} 
+
+  
+
+header nav ul li { 
+
+    display: inline; 
+
+    margin: 0 1rem; 
+
+} 
+
+  
+
+header nav ul li a { 
+
+    color: white; 
+
+    text-decoration: none; 
+
+    font-weight: bold; 
+
+} 
+
+  
+
+header nav ul li a:hover { 
+
+    text-decoration: underline; 
+
+} 
+
+  
+
+.hero { 
+
+    background: url('../images/education.jpg') no-repeat center center/cover; 
+
+    color: white; 
+
+    text-align: center; 
+
+    padding: 5rem 0; 
+
+} 
+
+  
+
+.hero h2 { 
+
+    font-size: 2.5rem; 
+
+} 
+
+  
+
+.hero p { 
+
+    font-size: 1.2rem; 
+
+} 
+
+  
+
+.hero .button { 
+
+    display: inline-block; 
+
+    margin: 1rem; 
+
+    padding: 0.5rem 1.5rem; 
+
+    background-color: #f39c12; 
+
+    color: white; 
+
+    text-decoration: none; 
+
+    font-size: 1rem; 
+
+    border-radius: 5px; 
+
+} 
+
+  
+
+.hero .button:hover { 
+
+    background-color: #e67e22; 
+
+} 
+
+  
+
+section { 
+
+    padding: 2rem 0; 
+
+} 
+
+  
+
+section h2 { 
+
+    text-align: center; 
+
+    font-size: 2rem; 
+
+    margin-bottom: 1rem; 
+
+} 
+
+  
+
+section p { 
+
+    text-align: center; 
+
+    font-size: 1.1rem; 
+
+} 
+
+  
+
+section ul { 
+
+    list-style: none; 
+
+    padding: 0; 
+
+    text-align: center; 
+
+} 
+
+  
+
+section ul li { 
+
+    font-size: 1.1rem; 
+
+    margin-bottom: 0.5rem; 
+
+} 
+
+  
+
+footer { 
+
+    background-color: #4CAF50; 
+
+    color: white; 
+
+    text-align: center; 
+
+    padding: 1rem 0; 
+
+} 
+
+  
+
+footer p { 
+
+    margin: 0; 
+}
