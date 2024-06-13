@@ -1,22 +1,31 @@
-LEAP is a comprehensive platform designed to track a child's education from pre-grade to higher education. It helps monitor academic progress, offers scholarship opportunities based on performance, and links graduates to internships and jobs, all while being user-friendly and intuitive.
+# LEAP 
 
-Table of Contents
-Introduction
-Features
-Getting Started
-Usage
-File Structure
-Contributing
-License
-Contact
-Introduction
+LEAP is a comprehensive platform designed to track a child's education from pre-grade to higher education.
+It helps monitor academic progress, offers scholarship opportunities based on performance, and links graduates to internships and jobs, all while being user-friendly and intuitive.
+
+## Table of Contents
+1.Introduction
+2.Features
+3.Getting Started
+4.Usage
+5.File Structure
+6.Contributing
+7.License
+8.Contact
+
+## Introduction
 LEAP is designed to address the challenges parents, students, and schools face in monitoring educational progress and accessing opportunities. By providing a centralized system for tracking academic performance, offering personalized scholarship options, and facilitating career opportunities, LEAP aims to support students throughout their educational journey.
 
-Features
-Student Tracking: Monitor academic progress from pre-grade to higher education.
-Scholarship Opportunities: Avail scholarships based on the student's strengths and performance.
-Internships and Jobs: Link graduates to relevant internships and job opportunities.
-Parental Access: Parents can view their child's academic progress, search schools, access educational resources, schedule tutoring sessions, and receive school communications.
+## Features
+
+## Student Tracking: 
+Monitor academic progress from pre-grade to higher education.
+## Scholarship Opportunities:
+Avail scholarships based on the student's strengths and performance.
+## Internships and Jobs: 
+Link graduates to relevant internships and job opportunities.
+Parental Access: Parents can view their child's academic progress, search schools, 
+access educational resources, schedule tutoring sessions, and receive school communications.
 School Admin: Manage student records, send announcements, and oversee scholarship and internship opportunities.
 Tutor Access: Schedule and manage tutoring sessions and access teaching resources (optional).
 Landing Page
