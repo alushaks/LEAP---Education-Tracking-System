@@ -4,14 +4,16 @@ LEAP is a comprehensive platform designed to track a child's education from pre-
 It helps monitor academic progress, offers scholarship opportunities based on performance, and links graduates to internships and jobs, all while being user-friendly and intuitive.
 
 ## Table of Contents
-1.Introduction
-2.Features
-3.Getting Started
-4.Usage
-5.File Structure
-6.Contributing
-7.License
-8.Contact
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Getting Started](#getting-started)
+4. [Usage](#usage)
+5. [File Structure](#file-structure)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
+
+
 
 ## Introduction
 LEAP is designed to address the challenges parents, students, and schools face in monitoring educational progress and accessing opportunities. By providing a centralized system for tracking academic performance, offering personalized scholarship options, and facilitating career opportunities, LEAP aims to support students throughout their educational journey.
