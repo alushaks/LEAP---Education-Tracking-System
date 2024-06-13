@@ -1,0 +1,49 @@
+document.addEventListener('DOMContentLoaded', function() { 
+
+    // Example: Form validation for sign up 
+
+    const signUpForm = document.querySelector('#signup-form'); 
+
+    if (signUpForm) { 
+
+        signUpForm.addEventListener('submit', function(event) { 
+
+            const password = document.querySelector('#password').value; 
+
+            const confirmPassword = document.querySelector('#confirm-password').value; 
+
+             
+
+            if (password !== confirmPassword) { 
+
+                event.preventDefault(); 
+
+                alert('Passwords do not match!'); 
+
+            } 
+
+        }); 
+
+    } 
+
+  
+
+    // Example: Dynamic content loading for parent dashboard 
+
+    const parentNavLinks = document.querySelectorAll('#parent-nav a'); 
+
+    parentNavLinks.forEach(link => { 
+
+        link.addEventListener('click', function(event) { 
+
+            event.preventDefault(); 
+
+            const contentId = event.target.getAttribute('href').substring(1); 
+
+            loadParentContent(contentId); 
+
+        }); 
+
+    }); 
+
+  
