@@ -24,12 +24,17 @@ Monitor academic progress from pre-grade to higher education.
 Avail scholarships based on the student's strengths and performance.
 ## Internships and Jobs: 
 Link graduates to relevant internships and job opportunities.
-Parental Access: Parents can view their child's academic progress, search schools, 
+## Parental Access:
+Parents can view their child's academic progress, search schools, 
 access educational resources, schedule tutoring sessions, and receive school communications.
-School Admin: Manage student records, send announcements, and oversee scholarship and internship opportunities.
-Tutor Access: Schedule and manage tutoring sessions and access teaching resources (optional).
-Landing Page
-Login/Sign Up: Users can either log in or sign up to access their respective dashboards.
+## School Admin:
+Manage student records, send announcements, and oversee scholarship and internship opportunities.
+## Tutor Access: 
+Schedule and manage tutoring sessions and access teaching resources (optional).
+## Landing Page
+
+## Login/Sign Up:
+Users can either log in or sign up to access their respective dashboards.
 Student Dashboard
 View Academic Progress: Students can monitor their academic records and achievements.
 Access Resources: Educational materials and assignments are available for students.
@@ -42,7 +47,11 @@ Communication: Receive newsletters and school announcements.
 School Admin Dashboard
 Manage Student Records: Oversee and update student information.
 Send Announcements: Communicate with parents and students.
-Scholarship and Internship Management: Handle opportunities for scholarships and internships.
-Tutor Dashboard (Optional)
-Schedule Tutoring Sessions: Organize and manage tutoring sessions.
-Access Teaching Resources: Utilize resources to aid in tutoring.
+## Scholarship and Internship Management: 
+Handle opportunities for scholarships and internships.
+
+## Tutor Dashboard (Optional)  
+##  Schedule Tutoring Sessions:
+Organize and manage tutoring sessions.
+## Access Teaching Resources: 
+Utilize resources to aid in tutoring.
