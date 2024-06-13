@@ -35,18 +35,27 @@ Schedule and manage tutoring sessions and access teaching resources (optional).
 
 ## Login/Sign Up:
 Users can either log in or sign up to access their respective dashboards.
-Student Dashboard
-View Academic Progress: Students can monitor their academic records and achievements.
-Access Resources: Educational materials and assignments are available for students.
-Parent Dashboard
-View Child's Progress: Parents can track their child's academic performance.
-Search Schools: Find and compare schools based on various criteria.
-Access Educational Resources: A wide range of resources to support the child's learning.
-Tutoring Sessions: Schedule and manage tutoring sessions.
-Communication: Receive newsletters and school announcements.
-School Admin Dashboard
-Manage Student Records: Oversee and update student information.
-Send Announcements: Communicate with parents and students.
+## Student Dashboard
+## View Academic Progress: 
+Students can monitor their academic records and achievements.
+## Access Resources: 
+Educational materials and assignments are available for students.
+## Parent Dashboard
+## View Child's Progress: 
+Parents can track their child's academic performance.
+## Search Schools: 
+Find and compare schools based on various criteria.
+## Access Educational Resources: 
+A wide range of resources to support the child's learning.
+## Tutoring Sessions: 
+Schedule and manage tutoring sessions.
+## Communication: 
+Receive newsletters and school announcements.
+## School Admin Dashboard
+## Manage Student Records: 
+Oversee and update student information.
+## Send Announcements: 
+Communicate with parents and students.
 ## Scholarship and Internship Management: 
 Handle opportunities for scholarships and internships.
 
